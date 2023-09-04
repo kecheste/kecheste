@@ -46,3 +46,7 @@ I was the student other kids went to at my high school when they had problems wi
 - I am passionate **Software Engineer**
 - I have a Graphics Design skills
 - Want to know more about me? [linkedin.com/in/abenezer-tesfaye](linkedin.com/in/abenezer-tesfaye)
+
+#
+
+#
