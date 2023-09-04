@@ -27,6 +27,10 @@ I was the student other kids went to at my high school when they had problems wi
 
 #
 
+#
+
+#
+
 ## About Me
 
 - I am currently studying Mechatronics Engineering and Software Engineering
