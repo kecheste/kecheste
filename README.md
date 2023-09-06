@@ -1,4 +1,4 @@
-# 🙋‍♂️ Abenezer Tesfaye
+# Hi 🙋‍♂️, I'm Abenezer Tesfaye
 
 **`Software Engineer(MERN Stack) && Mechatronics Engineer`**
 
@@ -35,6 +35,8 @@ I was the student other kids went to at my high school when they had problems wi
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+#
 
 #
 
