@@ -44,8 +44,8 @@ I was the student other kids went to at my high school when they had problems wi
 
 ## About Me
 
-- I am currently studying Mechatronics Engineering
-- I am **self-taught Software Engineer**
+- I am **Full-Stack Software Engineer**
+- I am **Mobile and Web App Developer**
 - I have a Graphics Design skills
 - Want to know more about me? [linkedin.com/in/abenezer-tesfaye](linkedin.com/in/abenezer-tesfaye)
 
