@@ -1,8 +1,10 @@
 # Hi 🙋‍♂️, I'm Abenezer Tesfaye
 
-**`Software Engineer(MERN Stack) && Mechatronics Engineer`**
+**` Software Engineer`**
 
-I was the student other kids went to at my high school when they had problems with their laptop or phone. I was the go-to guy to solve any technological issues. 👲 Not much has changed since then. I continue to be the go-to guy for technical issues. The difference is that I now develop ground-breaking softwares to address the issues you face.
+I’ve always been fascinated by how technology transforms ideas into reality. That curiosity led me to software development, where I get to build solutions that simplify lives and drive innovation. From architecting scalable systems to crafting intuitive user experiences, I love the challenge of turning complex problems into seamless digital products.
+
+Constantly learning, always building, let’s create something impactful! 🚀
 
 ---
 
@@ -38,7 +40,6 @@ I was the student other kids went to at my high school when they had problems wi
 
 - I am **Full-Stack Software Engineer**
 - I am **Mobile and Web App Developer**
-- I have a Graphics Design skills
 - Want to know more about me? [linkedin.com/in/abenezer-tesfaye](linkedin.com/in/abenezer-tesfaye)
 - Portfolio [https://abenidev.tech](https://kecheste.vercel.app)
 
