@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm passionate about how technology transforms ideas into reality. My focus is on building solutions that simplify lives and drive innovation—from architecting scalable systems to crafting intuitive user experiences.
+I'm passionate about how technology transforms ideas into reality. My focus is on building solutions that simplify lives and drive innovation; from architecting scalable systems to crafting intuitive user experiences.
 
 - 🔭 **Software Developer** specializing in web and mobile applications
 - 🌱 Constantly learning, always building
